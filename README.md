@@ -1,5 +1,7 @@
 # Falling Stairs and Slabs
 
+[![ContentDB](https://content.minetest.net/packages/lazerbeak12345/falling_stairs/shields/downloads/)](https://content.minetest.net/packages/lazerbeak12345/falling_stairs/)
+
 ## Dependancies
 
 Uses one of (in this preference order)
