@@ -64,7 +64,6 @@ elseif minetest.get_modpath("stairs") then
 		minetest.register_alias_force("mcl_stairs:slab_"..name,"stairs:slab_"..name)
 		minetest.register_alias_force("mcl_stairs:slab_"..name.."_top","stairs:slab_"..name)
 		minetest.register_alias_force("mcl_stairs:slab_"..name.."_double",origin..":"..name)
-		minetest.log("warn","found stairs "..origin..":"..name)
 	end
 end
 if minetest.get_modpath("default") then
